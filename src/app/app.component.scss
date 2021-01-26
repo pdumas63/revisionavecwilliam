@@ -1,0 +1,52 @@
+@import "~bootstrap/scss/bootstrap";
+#chronometre{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+
+    width: 200px;
+
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.bloc-btn{
+    display: flex;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.button{
+    cursor: pointer;
+}
+
+.green{
+    padding: 5px;
+    width: 100px;
+
+    border: 2px grey solid;
+    border-radius: 5px;
+    background-color: green;
+    color: #fff;
+}
+.red{
+    padding: 5px;
+    width: 100px;
+
+    border: 2px grey solid;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+}
+.grey{
+    padding: 5px;
+    width: 100px;
+
+    border: 2px grey solid;
+    border-radius: 5px;
+    background-color: grey;
+    color: #fff;
+}
